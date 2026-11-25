@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.famfinance.p2p",
+      "sha256_cert_fingerprints": [
+        "00:DE:EA:C7:8B:4E:F0:CB:B2:B5:F7:7C:72:67:57:2D:37:3C:6E:53:82:0A:50:8E:34:E3:8B:77:C1:7B:CA:13",
+        "A6:73:0C:CC:2C:28:BB:9E:93:59:9E:9D:25:D6:E2:EB:E8:BF:76:C1:0D:C3:AC:71:75:72:4E:5B:BF:51:4F:34",
+        "48:4B:E4:60:82:43:B7:D7:0F:CE:05:2E:B3:7F:DB:7E:51:65:2C:70:3F:53:15:EB:E7:41:B3:94:7B:A8:94:A7"
+      ]
+    }
+  }
+]
